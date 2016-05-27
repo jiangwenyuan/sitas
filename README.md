@@ -4,12 +4,11 @@
 Sitas allows you to login several servers simultaneously, and forwards every key you typed to all sessions. Meanwhile sitas can switch into singlecast mode and every key you typed will be sent to current session only. Sitas can handle a subset of the more sophisticated ANSI escape code well, which means graphical applications like VIM are also supported.
 
 ## Installation
-------------
 
     $ make
 
-## Quick start guide
-------------
+## Usage
+
 Create a file:
 
 ```bash
@@ -20,8 +19,7 @@ user@host2:2222
 
     $ ./sitas -f file
 
-
-## Usage
+### Control mode
 
 Use `CTRL + f` to enter control mode, after that, you can use these keys:
 
