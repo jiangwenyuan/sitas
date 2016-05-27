@@ -19,6 +19,8 @@ user@host2:2222
 
     $ ./sitas -f file
 
+![01](https://cloud.githubusercontent.com/assets/19603306/15599032/f2a5f5aa-241a-11e6-9262-4527c5b46e22.png)
+
 ### Control mode
 
 Use `CTRL + f` to enter control mode, after that, you can use these keys:
@@ -33,3 +35,5 @@ P: Move to the prev session and toggle it current active.
 N: Move to the next session and toggle it current active.
 J: Jump to the session by ID and toggle it current active. 
 ```
+
+![02](https://cloud.githubusercontent.com/assets/19603306/15599020/dd16953c-241a-11e6-80d9-77381e413049.png)
